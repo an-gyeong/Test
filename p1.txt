@@ -1,2 +1,2 @@
-1.fist story
+1. fist story
 2. second story
